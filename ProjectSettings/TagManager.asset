@@ -3,7 +3,28 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Block
+  - Bar
+  - GoalBlock
+  - GimicMoveBlock
+  - GimicMoveBar
+  - GimicMoveCol
+  - GimicClearBlock
+  - Tile
+  - MouseCursor
+  - GimicBreakBlock
+  - GoldImage
+  - SilverImage
+  - CopperImage
+  - ClimbBlock
+  - GimicCollision
+  - GimicOneWayBlock
+  - GimicBarCol
+  - MoveCenter
+  - SelectBgm
+  - StageBgm
+  - Samne
   layers:
   - Default
   - TransparentFX
@@ -11,13 +32,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - FrontEffect
+  - gimic
+  - Player
+  - gimicCollision
+  - Climb
+  - MoveBlock
+  - Item
   - 
   - 
   - 
